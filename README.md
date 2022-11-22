@@ -1,2 +1,2 @@
-# hello-world
-This is a test repository while running the Hello World quickstart guide!
+# Dasha Barsky
+I'm Dasha Barsky, I live and work in London, and I love writing code!
